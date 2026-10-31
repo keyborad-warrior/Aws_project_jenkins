@@ -1,1 +1,7 @@
 # Aws_project_jenkins
+#!/bin/bash
+
+echo "Hello World"
+echo "Welcome to Jenkins"
+echo "Build Started"
+echo "Build Successful"
